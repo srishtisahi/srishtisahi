@@ -1,6 +1,7 @@
-### Hi there 👋
+### Hi there! 👋
 
-- 🔭 I’m currently working on developing meaningful skills
-- 🌱 I’m currently learning Python to make open source contributions to AI
+- 👩‍💻 I'm a second year Computer Science Student
+- 🌻 I have experience with iOS Development, Machine Learning and Google Cloud Platform
+- 📝 I've previously worked with these languages: Python, Swift, MySQL, HTML, CSS and Java
 - 👯 I’m looking to collaborate on open source projects
-- 📫 How to reach me: https://www.linkedin.com/in/srishtisahi/
+- 📩 How to reach me: https://www.linkedin.com/in/srishtisahi/
