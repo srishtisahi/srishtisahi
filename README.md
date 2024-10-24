@@ -1,5 +1,5 @@
 <h1 align="center">🌟 Hi! I'm Srishti 🌔</h1>
-<h6 align="center">A second year Computer Science student</h6>
+<h3 align="center">A second year Computer Science student</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/ZOTbUNcYAupyg/giphy.gif" width="500" height="300"/>
