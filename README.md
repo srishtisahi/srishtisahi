@@ -1,7 +1,7 @@
 <h1 align="center">🌟 Hi! I'm Srishti 🌔</h1>
-<h4 align="center">~ Second year Computer Science student ~</h4>
-<h4 align="center">~ Creating mobile and web applications ~</h4>
-<h4 align="center">~ Always down for fun projects and collaborations ~</h4>
+<h3 align="center">~ Second year Computer Science student ~</h3>
+<h3 align="center">~ Creating mobile and web applications ~</h3>
+<h3 align="center">~ Always down for fun projects and collaborations ~</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/ZOTbUNcYAupyg/giphy.gif" style="width: 80%; max-width: 495px;"/>
