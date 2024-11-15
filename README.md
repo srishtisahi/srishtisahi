@@ -4,7 +4,7 @@
 <h4 align="center">~ Always down for fun projects and collaborations ~</h4>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZOTbUNcYAupyg/giphy.gif" width="100%" style="max-width: 300px; height: auto;"/>
+  <img src="https://media.giphy.com/media/ZOTbUNcYAupyg/giphy.gif" style="width: 80%; max-width: 495px;"/>
 </p>
 
 <p align="center">
