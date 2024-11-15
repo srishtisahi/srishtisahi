@@ -1,8 +1,10 @@
 <h1 align="center">🌟 Hi! I'm Srishti 🌔</h1>
-<h3 align="center">A second year Computer Science student</h3>
+<h4 align="center">~ Second year Computer Science student ~</h4>
+<h4 align="center">~ Creating mobile and web applications ~</h4>
+<h4 align="center">~ Always down for fun projects and collaborations ~</h4>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZOTbUNcYAupyg/giphy.gif" width="500" height="300"/>
+  <img src="https://media.giphy.com/media/ZOTbUNcYAupyg/giphy.gif" width="100%" style="max-width: 500px; height: auto;"/>
 </p>
 
 <p align="center">
@@ -20,6 +22,9 @@
   <img src="https://img.shields.io/badge/-MySQL-D4AF37?style=for-the-badge&logo=mysql&logoColor=6587A7" />
   <img src="https://img.shields.io/badge/-Java-6587A7?style=for-the-badge&logo=java&logoColor=D4AF37" />
   <img src="https://img.shields.io/badge/-C%2B%2B-D4AF37?style=for-the-badge&logo=c%2B%2B&logoColor=6587A7" />
+  <img src="https://img.shields.io/badge/-CSS-6587A7?style=for-the-badge&logo=css3&logoColor=D4AF37" />
+  <img src="https://img.shields.io/badge/-React-D4AF37?style=for-the-badge&logo=react&logoColor=6587A7" />
+  <img src="https://img.shields.io/badge/-TypeScript-6587A7?style=for-the-badge&logo=typescript&logoColor=D4AF37" />
 </p>
 
 ---
@@ -30,6 +35,9 @@
   <a href="https://www.linkedin.com/in/srishtisahi/">
     <img src="https://img.shields.io/badge/LinkedIn-6587A7?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://x.com/srishtisahiii">
+    <img src="https://img.shields.io/badge/X-D4AF37?style=for-the-badge&logo=x&logoColor=6587A7" />
+  </a>
 </p>
 
 ---
@@ -38,6 +46,14 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=srishtisahi&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+---
+
+<h3 align="center">🧞‍♂️ Languages Used</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srishtisahi&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
