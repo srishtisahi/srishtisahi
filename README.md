@@ -4,7 +4,7 @@
 <p align="center">this github is where i experiment, learn, and ship whatever i find worth making.</p>
 
 <p align="center">
-  <img src="./girl2.gif" alt="Srishti banner gif" width="700" />
+  <img src="./banner.gif" alt="Srishti banner gif" width="700" />
 </p>
 
 <hr>
